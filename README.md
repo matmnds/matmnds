@@ -2,7 +2,7 @@
 - 👀 I’m studying product management and analytics
 - 🌱 I’m currently interested in ML and enhancing better user experience through the implementation of ranking and recommendation systems
 -    Here you can find some of my projects, primarily developed in Python 
-- 💞️ I’m looking to collaborate on academic and business projects
+- 💞️ Let's collaborate on academic and business projects
 - ⚡ my telegram: @mat_mnds 
 
 <!---
