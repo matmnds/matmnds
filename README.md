@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tatiyana
-- 👀 I’m studying product management and analytics
+- 👀 I’m studying product management and machine learning
 - 🌱 I’m currently interested in ML and enhancing better user experience through the implementation of ranking and recommendation systems
 -    Here you can find some of my projects, primarily developed in Python 
 - 💞️ Let's collaborate on academic and business projects
